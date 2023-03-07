@@ -1,2 +1,2 @@
-# literate-meme
-Another collection of metadata, this time on youtube videos featuring artists. 
+# youtube-metadata
+An example CSV file with metadata referring to youtube videos.
